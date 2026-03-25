@@ -29,34 +29,23 @@ This is a modern, high-performance personal portfolio website designed to showca
 
 ## Clone repository
 
-```bash
 git clone https://github.com/jafarkhan83.react-project
 
 Go to Project folder:
-
-```bash
 cd react-project
 
 Install dependencies
-
-```bash
 npm install
 
 Run development server
-
-```bash 
 npm run dev
 
-## JSON server
+JSON server
 
 Install JSON server
-
-```bash
 npm install json-server
 
 Run JSON Server
-
-```bash
 npm run server
 
 Server runs on: http://localhost:8000/jobs
