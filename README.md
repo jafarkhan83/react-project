@@ -1,16 +1,62 @@
-# React + Vite
+## eact Porject
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern, high-performance personal portfolio website designed to showcase developer skills, projects, and experience. It focuses on clean aesthetics and smooth user interactions.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React Components
+- Props & State
+- React Hooks (useState, useEffect)
+- React Router
+- Tailwind CSS
+- JSON Server (Mock API)
+- CRUD Operations
+- Dynamic Routing
+- Form Handling
+- Loading Spinner
+- Toast Notifications
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- JSON Server
+- React Toastify
+- React Icons
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Clone repository
+
+```bash
+git clone https://github.com/jafarkhan83.react-project
+
+Go to Project folder:
+
+```bash
+cd react-project
+
+Install dependencies
+
+```bash
+npm install
+
+Run development server
+
+```bash 
+npm run dev
+
+## JSON server
+
+Install JSON server
+
+```bash
+npm install json-server
+
+Run JSON Server
+
+```bash
+npm run server
+
+Server runs on: http://localhost:8000/jobs
