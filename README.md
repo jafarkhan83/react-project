@@ -1,4 +1,4 @@
-## eact Porject
+## React Porject
 
 This is a modern, high-performance personal portfolio website designed to showcase developer skills, projects, and experience. It focuses on clean aesthetics and smooth user interactions.
 
@@ -35,17 +35,25 @@ Go to Project folder:
 cd react-project
 
 Install dependencies
+```bash
 npm install
+```
 
 Run development server
+```bash
 npm run dev
+```
 
 JSON server
 
 Install JSON server
+```bash
 npm install json-server
+```
 
 Run JSON Server
+```bash
 npm run server
+```
 
 Server runs on: http://localhost:8000/jobs
